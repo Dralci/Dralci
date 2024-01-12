@@ -2,7 +2,7 @@
 
 ## Apresentação Pessoal
 
-Olá, me chamo Matheus, um entusiasta de análise de dados com experiência em explorar insights valiosos a partir de conjuntos de dados. Este readme destaca minhas habilidades em análise exploratória, bancos de dados, especialmente Python e SQL.
+Olá, me chamo Matheus, um apaixonado em análise de dados com experiência em explorar insights valiosos a partir de conjuntos de dados. Este readme destaca minhas habilidades em análise exploratória, bancos de dados, especialmente Python e SQL.
 
 ## Habilidades
 
